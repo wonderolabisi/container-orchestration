@@ -22,7 +22,7 @@ To get started with this demonstration, follow the instructions below:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/davraops/container-orchestration-demo.git
+    git clone https://github.com/wonderolabisi/container-orchestration.git
     cd container-orchestration-demo
     ```
 
